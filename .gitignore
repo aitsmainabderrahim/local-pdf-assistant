@@ -1,0 +1,16 @@
+# Environments
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+
+# Vector Database
+faiss_index/
